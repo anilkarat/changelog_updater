@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 import os,sys
 import subprocess
@@ -56,7 +56,7 @@ def get_commit_info(timestamp):
     git_dict = {}
     commit_list = []
     if timestamp != None:
-        test=subprocess.Popen(["git", "log", "--after="+str(timestamp), "--pretty=format:%H,%an,%ad,%B"], stdout = subprocess.PIPE, stderr = subprocess.PIPE)
+        test=subprocess.Popen(["git", "log", "--after="+str(timestamp), "--pretty=format:%H,%an,%ad,%B", str(os.getcwd())], stdout = subprocess.PIPE, stderr = subprocess.PIPE)
         (out, error) = test.communicate()
         if out:
             for commit in out.split("\n\n"):
@@ -72,7 +72,8 @@ def get_commit_info(timestamp):
                     records.append(git_dict)    
 
     else:
-        test=subprocess.Popen(["git", "log", "--pretty=format:%H,%an,%ad,%B"], stdout = subprocess.PIPE, stderr = subprocess.PIPE)
+        test=subprocess.Popen(["git", "log", "--pretty=format:%H,%an,%ad,%B", str(os.getcwd())], stdout = subprocess.PIPE, stderr = subprocess.PIPE)
+        import pdb;pdb.set_trace()
         (out, error) = test.communicate()
         if out:
             for commit in out.split("\n\n"):
