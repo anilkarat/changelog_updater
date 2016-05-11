@@ -73,7 +73,6 @@ def get_commit_info(timestamp):
 
     else:
         test=subprocess.Popen(["git", "log", "--pretty=format:%H,%an,%ad,%B", str(os.getcwd())], stdout = subprocess.PIPE, stderr = subprocess.PIPE)
-        import pdb;pdb.set_trace()
         (out, error) = test.communicate()
         if out:
             for commit in out.split("\n\n"):
