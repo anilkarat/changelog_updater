@@ -4,6 +4,7 @@ import os,sys
 import subprocess
 import datetime
 import optparse
+import re
 #version = __init__.get_version("patch")
 
 def get_version(build, result):
@@ -107,7 +108,7 @@ def write_data_to_file(returned_data, version):
             f.write("\n"+"--------------------------")
             f.write("\n\n")
             f.write("No commits after "+str(timestamp)+"\n\n"+data)
-            sys.exit()
+            #sys.exit()
         if out != None:
             row_list=[]
             #import pdb;pdb.set_trace()
@@ -143,8 +144,33 @@ def get_version_info():
     else:
         return options.build
 
+def updateSetupVersion():
+    if not os.path.isfile("setup.py"):
+        return
+    
+    if not os.path.isfile("CHANGELOG.txt"):
+        return
+
+    setupFile = open("setup.py", "r+")
+
+    latestVersion = get_version_and_timestamp()["version"]
+    print "latest version is " + latestVersion
+
+    setupFileContents = setupFile.readlines()
+    setupFile.seek(0)
+    setupFile.truncate()
+
+    for line in setupFileContents:
+        if line.find("version") > 0:
+            line = re.sub('(\d)*(\.)*(\d)*\.(\d)*', latestVersion, line)
+        
+        setupFile.write(line)
+
+    setupFile.close()
+    
 if __name__ == "__main__":
     build = get_version_info()
     returned_data = get_version_and_timestamp()
     version = get_version(build, returned_data)
     write_data_to_file(returned_data, version)
+    updateSetupVersion()
