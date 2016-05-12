@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='changelog_updater',
+    name='changelog-updater',
     packages=['changelog_updater'],
     scripts=['changelog_updater/changelog_script.py'],
     version='0.0.10',
