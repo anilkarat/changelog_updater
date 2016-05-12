@@ -174,3 +174,6 @@ if __name__ == "__main__":
     version = get_version(build, returned_data)
     write_data_to_file(returned_data, version)
     updateSetupVersion()
+    
+    print "Will try to commit changelog now.."
+    os.system ("git commit -m 'updating changelog' CHANGELOG.txt setup.py")
