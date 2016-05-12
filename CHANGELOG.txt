@@ -1,3 +1,572 @@
+VERSION: 0.0.8
+2016-05-12 15:42:01.588355
+--------------------------
+
+Thu May 12 15:41:01 2016 +0530(Anil karat): changelog update will automatically commit changelog and setup
+                                  files_changed: changelog_updater/changelog_script.py
+
+VERSION: 0.0.7
+2016-05-12 15:39:32.455777
+--------------------------
+
+No commits after 2016-05-12 15:38:51.971781
+
+VERSION: 0.0.6
+2016-05-12 15:38:51.971781
+--------------------------
+
+Thu May 12 15:29:35 2016 +0530(Anil karat): added support for updating version in setup file
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.5
+2016-05-12 14:43:28.800200
+--------------------------
+
+Thu May 12 13:57:45 2016 +0530(Anil karat): add changelog
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.4
+2016-05-11 16:47:32.923743
+--------------------------
+
+Wed May 11 16:47:21 2016 +0530(lina): remove pdb call
+
+                                  files_changed: changelog_updater/changelog_script.py
+
+VERSION: 0.0.3
+2016-05-11 16:46:21.161243
+--------------------------
+
+No commits after 2016-05-11 16:45:38.202394
+
+VERSION: 0.0.2
+2016-05-11 16:45:38.202394
+--------------------------
+
+No commits after 2016-05-11 16:45:14.343342
+
+VERSION: 0.0.1
+2016-05-11 16:45:14.343342
+--------------------------
+
+Mon Feb 1 10:25:16 2016 +0000(Ankit Richariya): file removed from root
+                                  files_changed: changelog_script.py
+
+Mon Feb 1 10:23:20 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_updater/changelog_script.py
+
+Mon Feb 1 10:13:20 2016 +0000(Ankit Richariya): Merge branch 'master' of https://github.com/ankitrichariya/changelog_updater
+                                  files_changed: 
+
+
+Mon Feb 1 10:11:07 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_script.py
+
+Thu Jan 21 08:13:43 2016 +0000(Ankit Richariya): changelog script for maintaining git changelog of an app
+                                  files_changed: changelog_updater/changelog_script.py
+
+Thu Jan 21 08:12:37 2016 +0000(Ankit Richariya): init file for changelog_updater app
+                                  files_changed: changelog_updater/__init__.py
+
+Thu Jan 21 08:11:41 2016 +0000(Ankit Richariya): setup.py for changelog_updater app
+                                  files_changed: setup.py
+
+Thu Jan 21 07:11:19 2016 +0000(Ankit Richariya): file to maintain changelog of an app
+                                  files_changed: 
+
+
+Thu Jan 21 12:27:55 2016 +0530(ankitrichariya): Initial commit
+                                  files_changed: 
+
+
+Thu May 12 15:29:35 2016 +0530(Anil karat): added support for updating version in setup file
+
+                                  files_changed: CHANGELOG.txt
+                                                 changelog_updater/changelog_script.py
+
+VERSION: 0.0.5
+2016-05-12 14:43:28.800200
+--------------------------
+
+Thu May 12 13:57:45 2016 +0530(Anil karat): add changelog
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.4
+2016-05-11 16:47:32.923743
+--------------------------
+
+Wed May 11 16:47:21 2016 +0530(lina): remove pdb call
+
+                                  files_changed: changelog_updater/changelog_script.py
+
+VERSION: 0.0.3
+2016-05-11 16:46:21.161243
+--------------------------
+
+No commits after 2016-05-11 16:45:38.202394
+
+VERSION: 0.0.2
+2016-05-11 16:45:38.202394
+--------------------------
+
+No commits after 2016-05-11 16:45:14.343342
+
+VERSION: 0.0.1
+2016-05-11 16:45:14.343342
+--------------------------
+
+Mon Feb 1 10:25:16 2016 +0000(Ankit Richariya): file removed from root
+                                  files_changed: changelog_script.py
+
+Mon Feb 1 10:23:20 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_updater/changelog_script.py
+
+Mon Feb 1 10:13:20 2016 +0000(Ankit Richariya): Merge branch 'master' of https://github.com/ankitrichariya/changelog_updater
+                                  files_changed: 
+
+
+Mon Feb 1 10:11:07 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_script.py
+
+Thu Jan 21 08:13:43 2016 +0000(Ankit Richariya): changelog script for maintaining git changelog of an app
+                                  files_changed: changelog_updater/changelog_script.py
+
+Thu Jan 21 08:12:37 2016 +0000(Ankit Richariya): init file for changelog_updater app
+                                  files_changed: changelog_updater/__init__.py
+
+Thu Jan 21 08:11:41 2016 +0000(Ankit Richariya): setup.py for changelog_updater app
+                                  files_changed: setup.py
+
+Thu Jan 21 07:11:19 2016 +0000(Ankit Richariya): file to maintain changelog of an app
+                                  files_changed: 
+
+
+Thu Jan 21 12:27:55 2016 +0530(ankitrichariya): Initial commit
+                                  files_changed: 
+
+
+Thu May 12 15:29:35 2016 +0530(Anil karat): added support for updating version in setup file
+
+                                  files_changed: CHANGELOG.txt
+                                                 changelog_updater/changelog_script.py
+
+VERSION: 0.0.5
+2016-05-12 14:43:28.800200
+--------------------------
+
+Thu May 12 13:57:45 2016 +0530(Anil karat): add changelog
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.4
+2016-05-11 16:47:32.923743
+--------------------------
+
+Wed May 11 16:47:21 2016 +0530(lina): remove pdb call
+
+                                  files_changed: changelog_updater/changelog_script.py
+
+VERSION: 0.0.3
+2016-05-11 16:46:21.161243
+--------------------------
+
+No commits after 2016-05-11 16:45:38.202394
+
+VERSION: 0.0.2
+2016-05-11 16:45:38.202394
+--------------------------
+
+No commits after 2016-05-11 16:45:14.343342
+
+VERSION: 0.0.1
+2016-05-11 16:45:14.343342
+--------------------------
+
+Mon Feb 1 10:25:16 2016 +0000(Ankit Richariya): file removed from root
+                                  files_changed: changelog_script.py
+
+Mon Feb 1 10:23:20 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_updater/changelog_script.py
+
+Mon Feb 1 10:13:20 2016 +0000(Ankit Richariya): Merge branch 'master' of https://github.com/ankitrichariya/changelog_updater
+                                  files_changed: 
+
+
+Mon Feb 1 10:11:07 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_script.py
+
+Thu Jan 21 08:13:43 2016 +0000(Ankit Richariya): changelog script for maintaining git changelog of an app
+                                  files_changed: changelog_updater/changelog_script.py
+
+Thu Jan 21 08:12:37 2016 +0000(Ankit Richariya): init file for changelog_updater app
+                                  files_changed: changelog_updater/__init__.py
+
+Thu Jan 21 08:11:41 2016 +0000(Ankit Richariya): setup.py for changelog_updater app
+                                  files_changed: setup.py
+
+Thu Jan 21 07:11:19 2016 +0000(Ankit Richariya): file to maintain changelog of an app
+                                  files_changed: 
+
+
+Thu Jan 21 12:27:55 2016 +0530(ankitrichariya): Initial commit
+                                  files_changed: 
+
+
+Thu May 12 15:29:35 2016 +0530(Anil karat): added support for updating version in setup file
+
+                                  files_changed: CHANGELOG.txt
+                                                 changelog_updater/changelog_script.py
+
+VERSION: 0.0.5
+2016-05-12 14:43:28.800200
+--------------------------
+
+Thu May 12 13:57:45 2016 +0530(Anil karat): add changelog
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.4
+2016-05-11 16:47:32.923743
+--------------------------
+
+Wed May 11 16:47:21 2016 +0530(lina): remove pdb call
+
+                                  files_changed: changelog_updater/changelog_script.py
+
+VERSION: 0.0.3
+2016-05-11 16:46:21.161243
+--------------------------
+
+No commits after 2016-05-11 16:45:38.202394
+
+VERSION: 0.0.2
+2016-05-11 16:45:38.202394
+--------------------------
+
+No commits after 2016-05-11 16:45:14.343342
+
+VERSION: 0.0.1
+2016-05-11 16:45:14.343342
+--------------------------
+
+Mon Feb 1 10:25:16 2016 +0000(Ankit Richariya): file removed from root
+                                  files_changed: changelog_script.py
+
+Mon Feb 1 10:23:20 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_updater/changelog_script.py
+
+Mon Feb 1 10:13:20 2016 +0000(Ankit Richariya): Merge branch 'master' of https://github.com/ankitrichariya/changelog_updater
+                                  files_changed: 
+
+
+Mon Feb 1 10:11:07 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_script.py
+
+Thu Jan 21 08:13:43 2016 +0000(Ankit Richariya): changelog script for maintaining git changelog of an app
+                                  files_changed: changelog_updater/changelog_script.py
+
+Thu Jan 21 08:12:37 2016 +0000(Ankit Richariya): init file for changelog_updater app
+                                  files_changed: changelog_updater/__init__.py
+
+Thu Jan 21 08:11:41 2016 +0000(Ankit Richariya): setup.py for changelog_updater app
+                                  files_changed: setup.py
+
+Thu Jan 21 07:11:19 2016 +0000(Ankit Richariya): file to maintain changelog of an app
+                                  files_changed: 
+
+
+Thu Jan 21 12:27:55 2016 +0530(ankitrichariya): Initial commit
+                                  files_changed: 
+
+
+Thu May 12 15:41:01 2016 +0530(Anil karat): changelog update will automatically commit changelog and setup
+                                  files_changed: changelog_updater/changelog_script.py
+                                                 setup.py
+
+VERSION: 0.0.7
+2016-05-12 15:39:32.455777
+--------------------------
+
+No commits after 2016-05-12 15:38:51.971781
+
+VERSION: 0.0.6
+2016-05-12 15:38:51.971781
+--------------------------
+
+Thu May 12 15:29:35 2016 +0530(Anil karat): added support for updating version in setup file
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.5
+2016-05-12 14:43:28.800200
+--------------------------
+
+Thu May 12 13:57:45 2016 +0530(Anil karat): add changelog
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.4
+2016-05-11 16:47:32.923743
+--------------------------
+
+Wed May 11 16:47:21 2016 +0530(lina): remove pdb call
+
+                                  files_changed: changelog_updater/changelog_script.py
+
+VERSION: 0.0.3
+2016-05-11 16:46:21.161243
+--------------------------
+
+No commits after 2016-05-11 16:45:38.202394
+
+VERSION: 0.0.2
+2016-05-11 16:45:38.202394
+--------------------------
+
+No commits after 2016-05-11 16:45:14.343342
+
+VERSION: 0.0.1
+2016-05-11 16:45:14.343342
+--------------------------
+
+Mon Feb 1 10:25:16 2016 +0000(Ankit Richariya): file removed from root
+                                  files_changed: changelog_script.py
+
+Mon Feb 1 10:23:20 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_updater/changelog_script.py
+
+Mon Feb 1 10:13:20 2016 +0000(Ankit Richariya): Merge branch 'master' of https://github.com/ankitrichariya/changelog_updater
+                                  files_changed: 
+
+
+Mon Feb 1 10:11:07 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_script.py
+
+Thu Jan 21 08:13:43 2016 +0000(Ankit Richariya): changelog script for maintaining git changelog of an app
+                                  files_changed: changelog_updater/changelog_script.py
+
+Thu Jan 21 08:12:37 2016 +0000(Ankit Richariya): init file for changelog_updater app
+                                  files_changed: changelog_updater/__init__.py
+
+Thu Jan 21 08:11:41 2016 +0000(Ankit Richariya): setup.py for changelog_updater app
+                                  files_changed: setup.py
+
+Thu Jan 21 07:11:19 2016 +0000(Ankit Richariya): file to maintain changelog of an app
+                                  files_changed: 
+
+
+Thu Jan 21 12:27:55 2016 +0530(ankitrichariya): Initial commit
+                                  files_changed: 
+
+
+Thu May 12 15:29:35 2016 +0530(Anil karat): added support for updating version in setup file
+
+                                  files_changed: CHANGELOG.txt
+                                                 changelog_updater/changelog_script.py
+
+VERSION: 0.0.5
+2016-05-12 14:43:28.800200
+--------------------------
+
+Thu May 12 13:57:45 2016 +0530(Anil karat): add changelog
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.4
+2016-05-11 16:47:32.923743
+--------------------------
+
+Wed May 11 16:47:21 2016 +0530(lina): remove pdb call
+
+                                  files_changed: changelog_updater/changelog_script.py
+
+VERSION: 0.0.3
+2016-05-11 16:46:21.161243
+--------------------------
+
+No commits after 2016-05-11 16:45:38.202394
+
+VERSION: 0.0.2
+2016-05-11 16:45:38.202394
+--------------------------
+
+No commits after 2016-05-11 16:45:14.343342
+
+VERSION: 0.0.1
+2016-05-11 16:45:14.343342
+--------------------------
+
+Mon Feb 1 10:25:16 2016 +0000(Ankit Richariya): file removed from root
+                                  files_changed: changelog_script.py
+
+Mon Feb 1 10:23:20 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_updater/changelog_script.py
+
+Mon Feb 1 10:13:20 2016 +0000(Ankit Richariya): Merge branch 'master' of https://github.com/ankitrichariya/changelog_updater
+                                  files_changed: 
+
+
+Mon Feb 1 10:11:07 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_script.py
+
+Thu Jan 21 08:13:43 2016 +0000(Ankit Richariya): changelog script for maintaining git changelog of an app
+                                  files_changed: changelog_updater/changelog_script.py
+
+Thu Jan 21 08:12:37 2016 +0000(Ankit Richariya): init file for changelog_updater app
+                                  files_changed: changelog_updater/__init__.py
+
+Thu Jan 21 08:11:41 2016 +0000(Ankit Richariya): setup.py for changelog_updater app
+                                  files_changed: setup.py
+
+Thu Jan 21 07:11:19 2016 +0000(Ankit Richariya): file to maintain changelog of an app
+                                  files_changed: 
+
+
+Thu Jan 21 12:27:55 2016 +0530(ankitrichariya): Initial commit
+                                  files_changed: 
+
+
+Thu May 12 15:29:35 2016 +0530(Anil karat): added support for updating version in setup file
+
+                                  files_changed: CHANGELOG.txt
+                                                 changelog_updater/changelog_script.py
+
+VERSION: 0.0.5
+2016-05-12 14:43:28.800200
+--------------------------
+
+Thu May 12 13:57:45 2016 +0530(Anil karat): add changelog
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.4
+2016-05-11 16:47:32.923743
+--------------------------
+
+Wed May 11 16:47:21 2016 +0530(lina): remove pdb call
+
+                                  files_changed: changelog_updater/changelog_script.py
+
+VERSION: 0.0.3
+2016-05-11 16:46:21.161243
+--------------------------
+
+No commits after 2016-05-11 16:45:38.202394
+
+VERSION: 0.0.2
+2016-05-11 16:45:38.202394
+--------------------------
+
+No commits after 2016-05-11 16:45:14.343342
+
+VERSION: 0.0.1
+2016-05-11 16:45:14.343342
+--------------------------
+
+Mon Feb 1 10:25:16 2016 +0000(Ankit Richariya): file removed from root
+                                  files_changed: changelog_script.py
+
+Mon Feb 1 10:23:20 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_updater/changelog_script.py
+
+Mon Feb 1 10:13:20 2016 +0000(Ankit Richariya): Merge branch 'master' of https://github.com/ankitrichariya/changelog_updater
+                                  files_changed: 
+
+
+Mon Feb 1 10:11:07 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_script.py
+
+Thu Jan 21 08:13:43 2016 +0000(Ankit Richariya): changelog script for maintaining git changelog of an app
+                                  files_changed: changelog_updater/changelog_script.py
+
+Thu Jan 21 08:12:37 2016 +0000(Ankit Richariya): init file for changelog_updater app
+                                  files_changed: changelog_updater/__init__.py
+
+Thu Jan 21 08:11:41 2016 +0000(Ankit Richariya): setup.py for changelog_updater app
+                                  files_changed: setup.py
+
+Thu Jan 21 07:11:19 2016 +0000(Ankit Richariya): file to maintain changelog of an app
+                                  files_changed: 
+
+
+Thu Jan 21 12:27:55 2016 +0530(ankitrichariya): Initial commit
+                                  files_changed: 
+
+
+Thu May 12 15:29:35 2016 +0530(Anil karat): added support for updating version in setup file
+
+                                  files_changed: CHANGELOG.txt
+                                                 changelog_updater/changelog_script.py
+
+VERSION: 0.0.5
+2016-05-12 14:43:28.800200
+--------------------------
+
+Thu May 12 13:57:45 2016 +0530(Anil karat): add changelog
+
+                                  files_changed: CHANGELOG.txt
+
+VERSION: 0.0.4
+2016-05-11 16:47:32.923743
+--------------------------
+
+Wed May 11 16:47:21 2016 +0530(lina): remove pdb call
+
+                                  files_changed: changelog_updater/changelog_script.py
+
+VERSION: 0.0.3
+2016-05-11 16:46:21.161243
+--------------------------
+
+No commits after 2016-05-11 16:45:38.202394
+
+VERSION: 0.0.2
+2016-05-11 16:45:38.202394
+--------------------------
+
+No commits after 2016-05-11 16:45:14.343342
+
+VERSION: 0.0.1
+2016-05-11 16:45:14.343342
+--------------------------
+
+Mon Feb 1 10:25:16 2016 +0000(Ankit Richariya): file removed from root
+                                  files_changed: changelog_script.py
+
+Mon Feb 1 10:23:20 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_updater/changelog_script.py
+
+Mon Feb 1 10:13:20 2016 +0000(Ankit Richariya): Merge branch 'master' of https://github.com/ankitrichariya/changelog_updater
+                                  files_changed: 
+
+
+Mon Feb 1 10:11:07 2016 +0000(Ankit Richariya): changelog script updated for being app specific
+                                  files_changed: changelog_script.py
+
+Thu Jan 21 08:13:43 2016 +0000(Ankit Richariya): changelog script for maintaining git changelog of an app
+                                  files_changed: changelog_updater/changelog_script.py
+
+Thu Jan 21 08:12:37 2016 +0000(Ankit Richariya): init file for changelog_updater app
+                                  files_changed: changelog_updater/__init__.py
+
+Thu Jan 21 08:11:41 2016 +0000(Ankit Richariya): setup.py for changelog_updater app
+                                  files_changed: setup.py
+
+Thu Jan 21 07:11:19 2016 +0000(Ankit Richariya): file to maintain changelog of an app
+                                  files_changed: 
+
+
+Thu Jan 21 12:27:55 2016 +0530(ankitrichariya): Initial commit
+                                  files_changed: 
+
+
+Thu May 12 15:39:32 2016 +0530(Anil karat): updating changelog
+
+                                  files_changed: CHANGELOG.txt
+
 VERSION: 0.0.7
 2016-05-12 15:39:32.455777
 --------------------------
