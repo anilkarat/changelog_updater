@@ -5,7 +5,6 @@ import subprocess
 import datetime
 import optparse
 import re
-#version = __init__.get_version("patch")
 
 def get_version(build, result):
     if result == None:
