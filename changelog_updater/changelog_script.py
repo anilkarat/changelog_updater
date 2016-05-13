@@ -122,7 +122,9 @@ def write_data_to_file(returned_data, version):
                                 count+=1
                             else:
                                 row += "                                                 "+files+"\n"
-                            row_list.append(row)    
+                    
+                    row_list.append(row)    
+            
             for i in row_list:
                 f.write(str(i)+"\n")
 
