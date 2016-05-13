@@ -1,3 +1,19 @@
+VERSION: 0.1.23
+2016-05-13 11:07:08.444586
+--------------------------
+
+Fri May 13 11:07:03 2016 +0530(Anil karat): removed duplicates
+                                  files_changed: CHANGELOG.txt
+
+Fri May 13 11:06:10 2016 +0530(Anil karat): updating changelog
+
+                                  files_changed: CHANGELOG.txt
+
+Fri May 13 11:06:10 2016 +0530(Anil karat): updating changelog
+
+                                  files_changed: CHANGELOG.txt
+                                                 setup.py
+
 VERSION: 0.1.22
 2016-05-13 11:06:10.347347
 --------------------------
