@@ -25,15 +25,11 @@ def get_version(build, result):
 def get_version_and_timestamp():
     time_flag = 0
     version_flag = 0
-    #if not os.path.exists("/home/ankit/thinktank_project_main/thinktank_project/login_validation/CHANGELOG.txt"):
     if not os.path.isfile("CHANGELOG.txt"):
         return None
     else:
         prev = False
         for line in (open("CHANGELOG.txt").readlines()):
-            #if "--" in line:
-            #    prev = True
-            #    continue
             if prev:
                 formatted_timestamp = line.split("\n")[0]
                 timestamp = datetime.datetime.strptime(formatted_timestamp, "%Y-%m-%d %H:%M:%S.%f")
