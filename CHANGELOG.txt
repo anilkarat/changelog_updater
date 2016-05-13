@@ -1,3 +1,12 @@
+VERSION: 0.1.30
+2016-05-13 07:02:11.271593
+--------------------------
+
+Fri May 13 06:33:07 2016 +0000(Jenkins): updating changelog
+
+                                  files_changed: CHANGELOG.txt
+                                                 setup.py
+
 VERSION: 0.1.29
 2016-05-13 06:33:07.310011
 --------------------------
