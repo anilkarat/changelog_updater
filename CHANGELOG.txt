@@ -5,9 +5,6 @@ VERSION: 0.1.26
 Fri May 13 11:22:00 2016 +0530(Anil karat): removed comments
                                   files_changed: changelog_updater/changelog_script.py
 
-Fri May 13 11:17:57 2016 +0530(Anil karat): updating changelog
-
-                                  files_changed: CHANGELOG.txt
 
 Fri May 13 11:17:57 2016 +0530(Anil karat): updating changelog
 
@@ -21,9 +18,6 @@ VERSION: 0.1.25
 Fri May 13 11:17:49 2016 +0530(Anil karat): removed some commits
                                   files_changed: changelog_updater/changelog_script.py
 
-Fri May 13 11:07:49 2016 +0530(Anil karat): updating changelog
-
-                                  files_changed: CHANGELOG.txt
 
 Fri May 13 11:07:49 2016 +0530(Anil karat): updating changelog
 
@@ -37,10 +31,6 @@ VERSION: 0.1.24
 Fri May 13 11:07:08 2016 +0530(Anil karat): updating changelog
 
                                   files_changed: CHANGELOG.txt
-
-Fri May 13 11:07:08 2016 +0530(Anil karat): updating changelog
-
-                                  files_changed: CHANGELOG.txt
                                                  setup.py
 
 VERSION: 0.1.23
@@ -50,9 +40,6 @@ VERSION: 0.1.23
 Fri May 13 11:07:03 2016 +0530(Anil karat): removed duplicates
                                   files_changed: CHANGELOG.txt
 
-Fri May 13 11:06:10 2016 +0530(Anil karat): updating changelog
-
-                                  files_changed: CHANGELOG.txt
 
 Fri May 13 11:06:10 2016 +0530(Anil karat): updating changelog
 
