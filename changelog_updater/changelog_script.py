@@ -129,7 +129,10 @@ def write_data_to_file(returned_data, version):
                                 row += "                                                 "+files+"\n"
                             row_list.append(row)    
             for i in row_list:
-                f.write(str(i)+"\n"+data)
+                f.write(str(i)+"\n")
+
+            f.write(data)
+
 
 def get_version_info():
     parser=optparse.OptionParser()
