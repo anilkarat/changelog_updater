@@ -1,3 +1,19 @@
+VERSION: 0.1.26
+2016-05-13 11:28:50.952952
+--------------------------
+
+Fri May 13 11:22:00 2016 +0530(Anil karat): removed comments
+                                  files_changed: changelog_updater/changelog_script.py
+
+Fri May 13 11:17:57 2016 +0530(Anil karat): updating changelog
+
+                                  files_changed: CHANGELOG.txt
+
+Fri May 13 11:17:57 2016 +0530(Anil karat): updating changelog
+
+                                  files_changed: CHANGELOG.txt
+                                                 setup.py
+
 VERSION: 0.1.25
 2016-05-13 11:17:57.159169
 --------------------------
