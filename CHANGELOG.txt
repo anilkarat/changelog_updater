@@ -5,18 +5,11 @@ VERSION: 0.1.22
 Fri May 13 11:05:56 2016 +0530(Anil karat): removed duplicated
                                   files_changed: CHANGELOG.txt
 
-Fri May 13 11:05:56 2016 +0530(Anil karat): removed duplicated
-                                  files_changed: CHANGELOG.txt
-                                                 changelog_updater/changelog_script.py
 
 Fri May 13 10:58:17 2016 +0530(Anil karat): updating changelog
 
                                   files_changed: CHANGELOG.txt
 
-Fri May 13 10:58:17 2016 +0530(Anil karat): updating changelog
-
-                                  files_changed: CHANGELOG.txt
-                                                 setup.py
 
 VERSION: 0.1.21
 2016-05-13 10:58:17.121899
