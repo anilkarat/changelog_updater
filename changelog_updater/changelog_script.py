@@ -108,7 +108,8 @@ def write_data_to_file(returned_data, version):
             f.write("\n"+"--------------------------")
             f.write("\n\n")
             f.write("No commits after "+str(timestamp)+"\n\n"+data)
-            #sys.exit()
+            return
+
         if out != None:
             row_list=[]
             #import pdb;pdb.set_trace()
