@@ -1,3 +1,18 @@
+VERSION: 0.1.27
+2016-05-13 11:51:12.208333
+--------------------------
+
+Fri May 13 11:50:58 2016 +0530(Anil karat): avoid duplicate rows
+                                  files_changed: changelog_updater/changelog_script.py
+
+Fri May 13 11:50:24 2016 +0530(Anil karat): removing duplicates from changelog
+                                  files_changed: CHANGELOG.txt
+
+Fri May 13 11:49:29 2016 +0530(Anil karat): updating changelog
+
+                                  files_changed: CHANGELOG.txt
+                                                 setup.py
+
 VERSION: 0.1.26
 2016-05-13 11:28:50.952952
 --------------------------
